@@ -2,6 +2,8 @@ body {
   background-color: #ccc;
   color: #000;
 }
+h1 { text-align: center;
+}
 
 body.dark-mode {
   background-color: #000;
